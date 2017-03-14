@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1489419628 source:/home/simon/Public/LocationFlow/mfc/main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<vector>
+	<queue>
+	<cstring>
+
